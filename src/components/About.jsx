@@ -12,7 +12,7 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full  px-4'>
             <div>
-              <p>I am a passionate and experienced full stack developer, equipped with the skills and expertise to build robust and dynamic web applications. With a diverse background in both frontend and backend technologies, I thrive in creating seamless user experiences while ensuring efficient data management.</p>  
+              <p>I am a software developer and a student of business management, merging the realms of technology and entrepreneurship. With coding and a strategic thinking, I thrive on bridging the gap between software development and business strategies.</p>  
             </div>
           </div>
       </div>
