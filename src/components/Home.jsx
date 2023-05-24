@@ -12,12 +12,6 @@ const Home = () => {
         Full Stack Developer
         </h2>
         <div>
-          <button className='text-black bg-white border-black rounded border-2 px-6 py-3 my-2 flex items-center hover:bg-black hover:border-white hover:text-white duration-200'>
-            View Work
-            <span>
-              <HiArrowNarrowRight className='ml-3 ' />
-            </span>
-          </button>
         </div>
       </div>
     </div>
