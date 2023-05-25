@@ -8,7 +8,7 @@ const Home = () => {
           Juan Pablo Partridge
         </h1>
         <h2 className='text-2xl sm:text-1xl mb-4 font-thin text-gray-400'>
-        Software Developer
+        Full Stack Developer
         </h2>
         <div>
         </div>
