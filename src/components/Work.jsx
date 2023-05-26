@@ -4,9 +4,8 @@ import { projects } from "../constants/projects.js";
 
 const Work = () => {
 
-    // projects file
     const project = projects;
-    //setProject(data);
+
   
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-stone-950'>

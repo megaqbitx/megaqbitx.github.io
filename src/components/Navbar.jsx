@@ -12,7 +12,6 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-end items-center px-4 backdrop-blur-sm bg-stone-950/30 text-gray-300 font-inter'>
 
-      {/* menu */}
       <ul className='hidden md:flex'>
         <li>
           <Link to='home' smooth={true} duration={500}>
