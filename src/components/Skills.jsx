@@ -24,7 +24,7 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={NodeJS} />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={python} />
+                  <img className='w-20 mx-auto' src={typescript} />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={java} />
