@@ -6,7 +6,7 @@ import PostgreSQL from '../assets/postgresql.svg'
 import ReactImg from '../assets/react.svg'
 import Tailwind from '../assets/tailwindcss.svg'
 import GitIcon from '../assets/git.svg'
-import cplusplus from '../assets/cplusplus.svg'
+import python from '../assets/python.svg'
 import typescript from '../assets/typescript.svg'
 import linux from '../assets/linux.svg'
 import mysql from '../assets/mysql.svg'
@@ -48,7 +48,7 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={linux}  />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={cplusplus}  />
+                  <img className='w-20 mx-auto' src={python}  />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={ReactImg}  />
