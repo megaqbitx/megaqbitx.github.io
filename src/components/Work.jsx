@@ -8,10 +8,10 @@ const Work = () => {
 
   
   return (
-    <div name='work' className='w-full md:h-screen text-gray-300 bg-stone-950'>
-      <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
-        <div className='pt-10 mt-20 pb-6'>
-          <p className='text-4xl font-bold inline text-gray-300'>
+    <div name='work' className='w-full md:h-screen text-gray-300 py-5 bg-stone-950'>
+      <div className='max-w-[1000px] mx-auto p-4 py-20 mt-32 flex flex-col justify-center w-full h-full'>
+        <div className='pt-10 mt-20 pb-2'>
+          <p className='text-4xl font-bold pt-20 text-gray-300'>
             Work
           </p>
         </div>
