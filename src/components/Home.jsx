@@ -11,7 +11,7 @@ const Home = () => {
         Backend Developer
         </h2>
         <div className="text-white font-thin">
-          <p><p>I am a software developer and a student of business management, merging the realms of technology and entrepreneurship. With coding and a strategic thinking, I thrive on bridging the gap between software development and business strategies.</p>  </p>
+          <p>I am a Software Developer and a Student of Business Management, merging the realms of technology and entrepreneurship. With coding and a strategic thinking, I thrive on bridging the gap between software development and business strategies.</p>
         </div>
       </div>
     </div>
