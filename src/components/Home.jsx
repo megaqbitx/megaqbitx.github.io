@@ -8,7 +8,7 @@ const Home = () => {
           Juan Pablo Partridge
         </h1>
         <h2 className='text-2xl sm:text-1xl mb-4 font-thin text-gray-400'>
-        Backend Developer | Data Analyst
+        Backend Developer | AI Specialist
         </h2>
         <div className="text-white font-thin">
           <p>I am a Software Developer and a Student of Finance and Accounting, merging the realms of technology and entrepreneurship. With coding and a strategic thinking, I thrive on bridging the gap between software development and business strategies.</p>
