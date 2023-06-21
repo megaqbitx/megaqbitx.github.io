@@ -1,15 +1,15 @@
 import Express from '../assets/express.svg'
 import MongoDB from '../assets/mongodb.svg'
-import NextJS from '../assets/nextdotjs.svg'
+import PowerBI from '../assets/powerbi.svg'
 import NodeJS from '../assets/nodedotjs.svg'
 import PostgreSQL from '../assets/postgresql.svg'
 import ReactImg from '../assets/react.svg'
 import Tailwind from '../assets/tailwindcss.svg'
 import GitIcon from '../assets/git.svg'
 import python from '../assets/python.svg'
-import typescript from '../assets/typescript.svg'
+import aws from '../assets/amazonaws.svg'
 import linux from '../assets/linux.svg'
-import mysql from '../assets/mysql.svg'
+import tensorflow from '../assets/tensorflow.svg'
 
 
 const Skills = () => {
@@ -24,13 +24,13 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={NodeJS} />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={typescript} />
+                  <img className='w-20 mx-auto' src={aws} />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={mysql} />
+                  <img className='w-20 mx-auto' src={tensorflow} />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={NextJS}  />
+                  <img className='w-20 mx-auto' src={PowerBI}  />
               </div>
               <div className='shadow-md py-6 shadow-black hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Express}  />
